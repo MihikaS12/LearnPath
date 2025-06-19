@@ -1,5 +1,7 @@
 # 📚 LearnPath
 
+
+
 **LearnPath** is an intelligent, AI-powered chatbot designed to help users create personalized learning journeys. Whether you're picking up a new skill, preparing for an exam, switching careers, or exploring a passion project, LearnPath curates structured roadmaps, smart schedules, and top-notch resources tailored just for you.
 
 ## 🚀 Features
